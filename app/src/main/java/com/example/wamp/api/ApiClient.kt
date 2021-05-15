@@ -1,4 +1,4 @@
-package com.example.wamp
+package com.example.wamp.api
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

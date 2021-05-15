@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".FirstPage"
+            android:name=".views.MatchesPage"
             android:label="@string/title_activity_first_page"
             android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".views.LoginPage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

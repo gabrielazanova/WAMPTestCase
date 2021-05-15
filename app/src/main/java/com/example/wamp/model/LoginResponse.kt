@@ -1,4 +1,4 @@
-package com.example.wamp
+package com.example.wamp.model
 
 import com.google.gson.annotations.SerializedName
 
